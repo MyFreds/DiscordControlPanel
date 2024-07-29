@@ -1,0 +1,28 @@
+# Configuration DiscordControlPanel
+
+# your discord server ID. https://discord.com/channels
+ServerId: 1234567890
+
+CommandList: '!list' # Command to run in discord
+CommandListAllowedChannel:
+- 1063456789101112 # Discord channel id that is allowed to run the command
+
+CommandBan: '!ban'
+CommandBanAllowedChannel:
+- 115678910111213
+- 1063456789101112
+
+CommandUnban: '!unban'
+CommandUnbanAllowedChannel:
+- 115678910111213
+- 1063456789101112
+
+CommandKick: '!kick'
+CommandKickAllowedChannel:
+- 115678910111213
+- 1063456789101112
+
+CommandSay: '!say'
+CommandSayAllowedChannel:
+- 115678910111213
+- 1063456789101112
