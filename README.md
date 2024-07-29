@@ -1,2 +1,48 @@
-# DiscordControlPanel
-DiscordControlPanel gives admins the power to manage their Minecraft servers directly from Discord. With easy and intuitive commands, server management becomes more efficient and enjoyable.
+<!-- PROJECT BADGES -->
+<div align="center">
+
+[![Lint](https://poggit.pmmp.io/ci.shield/MyFreds/DiscordControlPanel/DiscordControlPanel)](https://poggit.pmmp.io/ci/MyFreds/DiscordControlPanel/DiscordControlPanel)
+
+</div>
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <img src="https://github.com/MyFreds/DiscordControlPanel/blob/main/icon.png" alt="Logo" width="80" height="80">
+  <h3>MyTime</h3>
+  <p align="center">
+    DiscordControlPanel gives admins the power to manage their Minecraft servers directly from Discord. With easy and intuitive commands, server management becomes more efficient and enjoyable.
+
+
+[View in Poggit](https://poggit.pmmp.io/ci/MyFreds/DiscordControlPanel/DiscordControlPanel) · [Report a bug](https://github.com/MyFreds/DiscordControlPanel/issues)
+
+  </p>
+</div>
+
+
+<!-- ABOUT THE PROJECT -->
+
+# ❔ How To Use Command
+- !list > Displays the number of online players on the server
+- !ban <playerName> > Banned player so they cannot join the server
+- !unban <playerName> > Unbanned player so they can rejoin the server
+- !kick <playerName> > Temporarily kick the player from the server
+- !say <message> > Provides a broadcast message from discord to in-game
+
+# 🔁 Installation
+
+1. Download the latest version in [poggit](https://poggit.pmmp.io/ci/MyFreds/DiscordControlPanel).
+2. Put the DiscordControlPanel-dev?.phar file to the plugins folder.
+3. Restart the server.
+4. Done!
+
+# 🪪 Contact & Credit
+CONTACT
+- YouTube: Fredy Ma'ruf
+- Discord: Fredy Ma'ruf#0905
+- GitHub: MyFreds
+- Email: id.luxy.store@gmail.com
+
+CREDIT
+- Icon by [Freepix - Flaticon](https://www.flaticon.com/search/3?word=time)
