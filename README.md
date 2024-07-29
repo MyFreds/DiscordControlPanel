@@ -30,6 +30,10 @@
 - !kick <playerName> > Temporarily kick the player from the server
 - !say <message> > Provides a broadcast message from discord to in-game
 
+# 🔖 Setup
+- Get ServerId: to get ServerId, open your browser and visit https://discord.com/channels/ then click on your server, then copy the id from the link after `channels`
+- Getting Channel Id: to get the channel id so it can be placed in CommandListAllowedChannel etc., open the channel on your server then copy the id after the channel id, example https://discord.com/channels/1063456789101112/115678910111213 (115678910111213 is the channel ID)
+
 # 🔁 Installation
 
 1. Download the latest version in [poggit](https://poggit.pmmp.io/ci/MyFreds/DiscordControlPanel).
