@@ -1,0 +1,5 @@
+name: DiscordControlPanel
+version: 1.0.0
+main: Fred\DiscordControlPanel\Main
+api: 5.0.0
+depend: [DiscordBot]
